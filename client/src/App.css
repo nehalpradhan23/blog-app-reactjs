@@ -1,0 +1,149 @@
+* {
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  cursor: pointer;
+}
+
+body {
+  color: #222;
+}
+img {
+  /* max-width: 100%; */
+}
+main {
+  /* padding: 10px; */
+  max-width: 1000px;
+  margin: 0 auto;
+  /* background-color: red; */
+}
+
+/* header {
+  display: flex;
+  background-color: red;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  align-items: center;
+  border-bottom: solid 2px black;
+} */
+
+/* header a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header a.logo {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+header nav {
+  display: flex;
+  gap: 15px;
+}
+
+.headerButtons:hover {
+  color: blue;
+  font-weight: bold;
+} */
+
+/* .header-border {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 100px;
+  border: 1px solid black;
+} */
+
+/* .post {
+  display: grid;
+  grid-template-columns: 0.7fr 1.3fr;
+  gap: 20px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  height: 170px;
+  border: solid 1px black;
+} */
+
+/* .post .image {
+  height: 200px;
+  height: min-content;
+  object-fit: cover;
+  overflow: hidden;
+}
+.post .image img {
+  height: max-content;
+  object-fit: cover;
+  overflow: hidden;
+} */
+/* 
+.post .texts h2 {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.post .texts a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.post .info {
+  margin: 6px 0;
+  color: #888;
+  font-size: 0.8rem;
+  font-weight: bold;
+  display: flex;
+  gap: 10px;
+}
+
+.post .info .author {
+  color: #333;
+}
+
+.post .summary {
+  max-height: 350px;
+  -webkit-box-orient: vertical;
+  margin: 10px 0;
+  display: block;
+  display: -webkit-box;
+  line-height: 1.2rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+}
+
+@media screen and (max-width: 992px) {
+  .post .texts h2 {
+    font-size: 1.3rem;
+  }
+  .post .texts .summary {
+    font-size: 1rem;
+  }
+}
+@media screen and (max-width: 760px) {
+  img {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+  }
+  .post {
+    display: flex;
+    flex-direction: column;
+    max-height: 450px;
+    margin-bottom: 60px;
+    margin-top: 20px;
+  }
+  .post .texts h2 {
+    font-size: 1.4rem;
+  }
+  .post .post-separator {
+    border: 1px solid rgb(112, 112, 112);
+  }
+} */
