@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./LoginRegister.css";
 import { Navigate } from "react-router-dom";
 
 const RegisterPage = () => {
